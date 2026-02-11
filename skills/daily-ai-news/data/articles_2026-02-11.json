@@ -1,0 +1,358 @@
+{
+  "date": "2026-02-11",
+  "count": 16,
+  "articles": [
+    {
+      "id": "railway-secures-usd100-million-to-challenge-aws-wi",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "title_cn": "中文翻译：Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "text": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure\n\nRailway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Venturesled the round, with participation fromFPV Ventures,Redpoint, andUnusual Ventures. The investment values Railway as one of the most significant infrastructure startup",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat",
+      "category_text": "Infrastructure"
+    },
+    {
+      "id": "claude-code-costs-up-to-usd200-a-month-goose-does-",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "title_cn": "中文翻译：Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "text": "Claude Code costs up to $200 a month. Goose does the same thing for free.\n\nThe artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But itspricing— ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction.Goose, an open-source AI agent developed byBlock(the financial",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Mon, 19 Jan 2026 14:00:00 GMT",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat",
+      "category_text": "AI"
+    },
+    {
+      "id": "listen-labs-raises-usd69m-after-viral-billboard-hi",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "title_cn": "中文翻译：Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "text": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews\n\nAlfred Wahlforss was running out of options. His startup,Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's$100 million offersseemed impossible. So he spent $5,000 — a fifth of his marketing budget — on abillboard in San Franciscodisplaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famo",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat",
+      "category_text": "Technology"
+    },
+    {
+      "id": "salesforce-rolls-out-new-slackbot-ai-agent-as-it-b",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "title_cn": "中文翻译：Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "text": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI\n\nSalesforceon Tuesday launched an entirely rebuilt version ofSlackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available toBusiness+andEnterprise+customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\" movement —",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Tue, 13 Jan 2026 13:00:00 GMT",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat",
+      "category_text": "Technology"
+    },
+    {
+      "id": "anthropic-launches-cowork-a-claude-desktop-agent-t",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "title_cn": "中文翻译：Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "text": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required\n\nAnthropicreleasedCoworkon Monday, a new AI agent capability that extends the power of its wildly successfulClaude Codetool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just withOpenAIandGooglein conversational AI, but withMicrosoft's Copil",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Mon, 12 Jan 2026 11:30:00 GMT",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat",
+      "category_text": "Technology"
+    },
+    {
+      "id": "nous-researchs-nouscoder-14b-is-an-open-source-cod",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "title_cn": "中文翻译：Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "text": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment\n\nNous Research, the open-source artificial intelligence startup backed by crypto venture firmParadigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latestB200 graphics processors.The model, calledNousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment:Claude Code, the agentic programming tool from rival Anthr",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Wed, 07 Jan 2026 20:00:00 GMT",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat",
+      "category_text": "Technology"
+    },
+    {
+      "id": "the-creator-of-claude-code-just-revealed-his-workf",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "title_cn": "中文翻译：The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "text": "The creator of Claude Code just revealed his workflow, and developers are losing their minds\n\nWhen the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting athread on XfromBoris Cherny, the creator and head ofClaude CodeatAnthropic. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.\"If you're not reading the Claude",
+      "text_cn": "开发者报告使用 Claude Sonnet 4.5 进行编码任务时生产力显著提升。该模型理解和编写复杂代码的能力大幅提升。",
+      "author": {
+        "id": "VentureBeat",
+        "username": "venturebeat",
+        "name": "michael.nunez@venturebeat.com (Michael Nuñez)",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "Mon, 05 Jan 2026 07:45:00 GMT",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat",
+      "category_text": "Technology"
+    },
+    {
+      "id": "",
+      "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+      "title_cn": "中文翻译：A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+      "text": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions\n\nIn September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Michelle Kim",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-10T17:00:24Z",
+      "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+      "source": "MIT Technology Review",
+      "category_text": "Artificial intelligence"
+    },
+    {
+      "id": "",
+      "title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
+      "title_cn": "中文翻译：The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
+      "text": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A first look at Making AI Work, MIT Technology Review’s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We’ve launched a new…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Rhiannon Williams",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-10T13:10:00Z",
+      "url": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
+      "source": "MIT Technology Review",
+      "category_text": "The Download"
+    },
+    {
+      "id": "",
+      "title": "Why the Moltbook frenzy was like Pokémon",
+      "title_cn": "中文翻译：Why the Moltbook frenzy was like Pokémon",
+      "text": "Why the Moltbook frenzy was like Pokémon\n\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "James O'Donnell",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-09T17:02:56Z",
+      "url": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+      "source": "MIT Technology Review",
+      "category_text": "Artificial intelligence"
+    },
+    {
+      "id": "",
+      "title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+      "title_cn": "中文翻译：The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+      "text": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Moltbook was peak AI theater For a few days recently, the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots.…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Rhiannon Williams",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-09T13:10:00Z",
+      "url": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
+      "source": "MIT Technology Review",
+      "category_text": "Uncategorized"
+    },
+    {
+      "id": "",
+      "title": "Making AI Work, MIT Technology Review’s new AI newsletter, is here",
+      "title_cn": "中文翻译：Making AI Work, MIT Technology Review’s new AI newsletter, is here",
+      "text": "Making AI Work, MIT Technology Review’s new AI newsletter, is here\n\nFor years, our newsroom has explored AI’s limitations and potential dangers, as well as its growing energy needs. And our reporters have looked closely at how generative tools are being used for tasks such as coding and running scientific experiments.  But how is AI actually being used in fields like health care, climate tech, education,…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Abby Ivory-Ganja",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-09T11:30:00Z",
+      "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+      "source": "MIT Technology Review",
+      "category_text": "Artificial intelligence"
+    },
+    {
+      "id": "",
+      "title": "Moltbook was peak AI theater",
+      "title_cn": "中文翻译：Moltbook was peak AI theater",
+      "text": "Moltbook was peak AI theater\n\nFor a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on January 28 by Matt Schlicht,…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Will Douglas Heaven",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-06T16:38:11Z",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "source": "MIT Technology Review",
+      "category_text": "Artificial intelligence"
+    },
+    {
+      "id": "",
+      "title": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
+      "title_cn": "中文翻译：The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
+      "text": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An experimental surgery is helping cancer survivors give birth An experimental surgical procedure that’s helping people have babies after they’ve had  treatment for bowel or rectal cancer. Radiation and chemo can have pretty…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Rhiannon Williams",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-06T13:10:00Z",
+      "url": "https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/",
+      "source": "MIT Technology Review",
+      "category_text": "The Download"
+    },
+    {
+      "id": "",
+      "title": "Consolidating systems for AI with iPaaS",
+      "title_cn": "中文翻译：Consolidating systems for AI with iPaaS",
+      "text": "Consolidating systems for AI with iPaaS\n\nFor decades, enterprises reacted to shifting business pressures with stopgap technology solutions. To rein in rising infrastructure costs, they adopted cloud services that could scale on demand. When customers shifted their lives onto smartphones, companies rolled out mobile apps to keep pace. And when businesses began needing real-time visibility into factories and stockrooms, they layered…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "MIT Technology Review Insights",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-05T15:20:37Z",
+      "url": "https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/",
+      "source": "MIT Technology Review",
+      "category_text": "Computing"
+    },
+    {
+      "id": "",
+      "title": "The Download: attempting to track AI, and the next generation of nuclear power",
+      "title_cn": "中文翻译：The Download: attempting to track AI, and the next generation of nuclear power",
+      "text": "The Download: attempting to track AI, and the next generation of nuclear power\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This is the most misunderstood graph in AI Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an…",
+      "text_cn": "这是 AI 领域的重要进展，展示了人工智能技术的最新突破和发展方向。",
+      "author": {
+        "id": "MIT Technology Review",
+        "username": "mit_technology_review",
+        "name": "Rhiannon Williams",
+        "avatar": ""
+      },
+      "metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "created_at": "2026-02-05T13:10:00Z",
+      "url": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/",
+      "source": "MIT Technology Review",
+      "category_text": "The Download"
+    }
+  ]
+}

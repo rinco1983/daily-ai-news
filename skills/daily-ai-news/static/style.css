@@ -1,0 +1,353 @@
+/* 每日 AI 速递样式表 */
+
+/* CSS 变量 - 支持主题切换 */
+:root {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8f9fa;
+    --bg-card: #ffffff;
+    --text-primary: #1a1a1a;
+    --text-secondary: #6c757d;
+    --accent: #1da1f2;
+    --accent-hover: #0c85d0;
+    --border: #e1e8ed;
+    --shadow: rgba(0, 0, 0, 0.08);
+    --shadow-hover: rgba(0, 0, 0, 0.12);
+}
+
+.dark-mode {
+    --bg-primary: #15202b;
+    --bg-secondary: #192734;
+    --bg-card: #1c2938;
+    --text-primary: #f7f9f9;
+    --text-secondary: #8b98a5;
+    --accent: #1da1f2;
+    --accent-hover: #1a91da;
+    --border: #38444d;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --shadow-hover: rgba(0, 0, 0, 0.4);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    transition: background 0.3s, color 0.3s;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* 页头 */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+    border-bottom: 2px solid var(--border);
+    margin-bottom: 40px;
+}
+
+.header-left h1 {
+    font-size: 2.5rem;
+    color: var(--text-primary);
+    letter-spacing: -0.5px;
+}
+
+.header-left h1 span {
+    color: var(--accent);
+}
+
+.header-left .date {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    margin-top: 8px;
+}
+
+.theme-toggle {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    padding: 10px 20px;
+    border-radius: 24px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.theme-toggle:hover {
+    background: var(--border);
+    transform: translateY(-1px);
+}
+
+/* 统计卡片 */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+    margin-bottom: 40px;
+}
+
+.stat-card {
+    background: var(--bg-card);
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 2px 12px var(--shadow);
+    border: 1px solid var(--border);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px var(--shadow-hover);
+}
+
+.stat-card .label {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.stat-card .value {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--accent);
+}
+
+/* 分类筛选 */
+.category-filter {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+    padding: 16px;
+    background: var(--bg-secondary);
+    border-radius: 16px;
+}
+
+.category-tag {
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 1px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.category-tag.active,
+.category-tag:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--shadow);
+}
+
+/* 博文卡片 */
+.tweet-list {
+    display: grid;
+    gap: 24px;
+}
+
+.tweet-card {
+    background: var(--bg-card);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 2px 12px var(--shadow);
+    border: 1px solid var(--border);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tweet-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px var(--shadow-hover);
+}
+
+.tweet-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 16px;
+}
+
+.tweet-avatar {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    color: white;
+    font-weight: 600;
+    flex-shrink: 0;
+}
+
+.tweet-author {
+    flex: 1;
+}
+
+.tweet-author .name {
+    font-weight: 600;
+    color: var(--text-primary);
+    font-size: 1.1rem;
+}
+
+.tweet-author .username {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+.tweet-category {
+    padding: 6px 14px;
+    border-radius: 14px;
+    font-size: 0.85rem;
+    background: var(--bg-secondary);
+    color: var(--accent);
+    font-weight: 500;
+    flex-shrink: 0;
+}
+
+.tweet-content {
+    color: var(--text-primary);
+    margin-bottom: 16px;
+    line-height: 1.8;
+    font-size: 1.05rem;
+}
+
+.tweet-tags {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.tweet-tag {
+    color: var(--accent);
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.tweet-metrics {
+    display: flex;
+    gap: 24px;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    align-items: center;
+}
+
+.metric {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.tweet-link {
+    margin-left: auto;
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: color 0.3s;
+    font-weight: 500;
+}
+
+.tweet-link:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+}
+
+/* 页脚 */
+footer {
+    text-align: center;
+    padding: 50px 0;
+    color: var(--text-secondary);
+    border-top: 1px solid var(--border);
+    margin-top: 60px;
+}
+
+footer p {
+    margin: 8px 0;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .header-left h1 {
+        font-size: 2rem;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 16px;
+    }
+
+    .stat-card .value {
+        font-size: 1.8rem;
+    }
+
+    .category-filter {
+        gap: 8px;
+        padding: 12px;
+    }
+
+    .category-tag {
+        padding: 6px 14px;
+        font-size: 0.85rem;
+    }
+
+    .tweet-metrics {
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .tweet-link {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+}
+
+/* 加载动画 */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.tweet-card {
+    animation: fadeIn 0.5s ease-out forwards;
+}
+
+.tweet-card:nth-child(1) { animation-delay: 0.05s; }
+.tweet-card:nth-child(2) { animation-delay: 0.1s; }
+.tweet-card:nth-child(3) { animation-delay: 0.15s; }
+.tweet-card:nth-child(4) { animation-delay: 0.2s; }
+.tweet-card:nth-child(5) { animation-delay: 0.25s; }
+.tweet-card:nth-child(n+6) { animation-delay: 0.3s; }

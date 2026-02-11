@@ -1,0 +1,30 @@
+{
+  "functions": {
+    "api/fetch-data.py": {
+      "runtime": "python3.9"
+    },
+    "api/generate-page.py": {
+      "runtime": "python3.9"
+    },
+    "api/cron.py": {
+      "runtime": "python3.9"
+    }
+  },
+  "crons": [
+    {
+      "path": "/api/cron",
+      "schedule": "0 9 * * *"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/api/generate-page.py"
+    }
+  ],
+  "env": {
+    "RSS_FEEDS": "$(RSS_FEEDS)",
+    "CACHE_TTL": "3600",
+    "CACHE_KEY": "daily-ai-news"
+  }
+}
